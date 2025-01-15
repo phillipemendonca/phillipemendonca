@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desde 2014 sendo garoto de programa xD<br>📚 Atualmente aprendendo Javascript, ReactJS, SpringFramework .<br>🎯 Objetivos: Trabalhar em uma grande empresa, comprar um sítio e lotar ele de muitos bichos :).</p>
+<p align="left">✨ Desde 2014 trabalhando e estudando na área de TI<br>📚 Atualmente aprendendo Javascript, ReactJS, SpringFramework .<br>🎯 Objetivos: Trabalhar em uma grande empresa, comprar um sítio e lotar ele de muitos bichos :).</p>
 
 ###
 
