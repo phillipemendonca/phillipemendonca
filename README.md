@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Desde 2014 trabalhando e estudando na área de TI<br>📚 Atualmente aprendendo Javascript, ReactJS, SpringFramework .<br>🎯 Objetivos: Trabalhar em uma grande empresa, comprar um sítio e lotar ele de muitos bichos :).</p>
+<p align="left">✨ Bacharel em Ciência da Computação, desde 2014 trabalhando e estudando na área de TI<br>📚 Atualmente aprendendo Javascript, ReactJS, SpringFramework, linguagem Go .<br>🎯 Objetivos: >Aprimorar habilidades em desenvolvimento back-end e arquitetura de software
+  >Aprender e evoluir continuamente em novas linguagens e frameworks.
+  >Contribuir para projetos que tenham impacto social e sustentável
+  >Trabalhar com tecnologias escaláveis e inovadoras no mercado..</p>
 
 ###
 
